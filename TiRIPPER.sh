@@ -17,7 +17,6 @@ if [ ${#albumID} -ge 10 ]; then
 play=1
 fi
 
-#superfluous crap probably
 #-------------------------
 nullCheck=0
 while [ "$nullCheck" == 0 ];do
